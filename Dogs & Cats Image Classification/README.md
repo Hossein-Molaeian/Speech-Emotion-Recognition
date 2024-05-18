@@ -20,3 +20,7 @@ The training archive contains 25,000 images of dogs and cats. You can train your
 
 <li>Convolutional neural network (CNN)
 <li>Accuracy: 90.48
+
+##
+
+**Thanks for visiting this project!**
