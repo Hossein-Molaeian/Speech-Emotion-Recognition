@@ -18,3 +18,7 @@ Input Image -> Encoder -> Compressed Representation -> Decoder -> Reconstruct In
 ## Neural Network
 
 <li>Convolutional neural network (CNN)
+
+##
+
+**Thanks for visiting this project!**
