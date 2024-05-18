@@ -31,3 +31,7 @@ The dataset is organised such that each of the two female actors and their emoti
 <li>Long short-term memory (LSTM)
   
 <li>Accuracy: 67.00
+
+##
+
+**Thanks for visiting this project!**
