@@ -2,7 +2,7 @@
 
 This project focuses on enabling machines to understand human emotions from speech.
 
-### Key Features:
+## Key Features:
 
 - **Emotion Detection**: Identifies seven types of emotions: anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral.
 - **Model Architecture**: Long Short-Term Memory (LSTM) layers for handling sequential data.
