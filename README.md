@@ -4,13 +4,14 @@ This project focuses on enabling machines to understand human emotions from spee
 
 ## Key Features:
 
-- **Emotion Detection**: Identifies seven types of emotions: anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral.
-- **Model Architecture**: Long Short-Term Memory (LSTM) layers for handling sequential data.
-- **Feature Extraction**: MFCCs for capturing the phonetic properties of speech.
+- Identifies seven types of emotions: anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral.
+- Long Short-Term Memory (LSTM) layers for handling sequential data.
+- MFCCs for capturing the phonetic properties of speech.
+- Validation Accuracy: 67%
 
 ## Technologies Used
 
-- **Python**: The primary programming language.
+- **Python**: The primary language.
 - **Keras with TensorFlow**: For building and training the neural network models.
 - **Librosa**: For audio processing and feature extraction.
 - **Pandas**: For data manipulation and analysis.
@@ -30,12 +31,6 @@ This project focuses on enabling machines to understand human emotions from spee
 - **Optimizer**: Adam
 - **Loss Function**: Categorical Cross-Entropy
 - **Training Duration**: 50 epochs with a batch size of 64
-
-## Performance
-
-- **Validation Accuracy**: 67%
-- **Strengths**: Good performance in detecting fear and neutral emotions.
-- **Weaknesses**: Lower performance in detecting pleasant surprise.
 
 ##
 
