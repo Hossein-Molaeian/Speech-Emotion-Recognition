@@ -12,10 +12,10 @@ This project focuses on enabling machines to understand human emotions from spee
 ## Technologies Used
 
 - **Python**
-- **Keras**: building and training the neural network model.
-- **Librosa**: audio processing and feature extraction.
+- **Keras**: building and training the neural network model
+- **Librosa**: audio processing and feature extraction
 - **Pandas**: data manipulation
-- **Matplotlib and Seaborn**: data visualization.
+- **Matplotlib and Seaborn**: data visualization
 
 ## Dataset Information
 
