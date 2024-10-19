@@ -11,18 +11,18 @@ This project focuses on enabling machines to understand human emotions from spee
 
 ## Technologies Used
 
-- **Python**: The primary language.
-- **Keras with TensorFlow**: For building and training the neural network models.
-- **Librosa**: For audio processing and feature extraction.
-- **Pandas**: For data manipulation and analysis.
-- **Matplotlib and Seaborn**: For data visualization.
+- **Python**
+- **Keras**: building and training the neural network model.
+- **Librosa**: audio processing and feature extraction.
+- **Pandas**: data manipulation
+- **Matplotlib and Seaborn**: data visualization.
 
 ## Dataset Information
 
 - **Source**: [Toronto Emotional Speech Set (TESS)](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess)
 - **Details**: 2800 audio samples in WAV format recorded at 22050 Hz. Each sample is up to 3 seconds long.
 
-## Model
+## Summary of the Model
 
 - 1 LSTM layer with 256 units
 - 2 Dense layers with 128 and 64 units using ReLU activation
